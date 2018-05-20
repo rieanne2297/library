@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Raleway', sans-serif;
+}
+body{
+	font-family: 'FranchiseRegular','Arial Narrow',Arial,sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	color: #1d3c41;
+	overflow-y: scroll;
+}
+body{
+	background:url("../images/Library-HD-Background.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+}
+.card 
+{
+	margin: 0 auto; 
+    float: none;
+    margin-bottom: 10px;
+    margin-top: 100px; 
+	padding: 10px 10px 10px 10px;
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+h1,h3{
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+	
+}
+
+label{
+	font-weight: bold;
+}
+ 
+.red{
+	background-color:#751816;
+	color:white;
+}
+ 
